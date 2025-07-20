@@ -36,4 +36,4 @@ possible.
  page, where you can review all pertinent information about your order, including
  shipping details, payment method, and any specific product requests you specified.
 
-DEMO VIDEO:- 
+
